@@ -10,11 +10,11 @@ Rectangle (w × h)
 The project demonstrates HTML, CSS, and JavaScript skills, focusing on DOM manipulation and event handling.
 
 **Features**
-✅ User-friendly interface with an intuitive layout.
-✅ Input validation to ensure correct calculations.
-✅ JavaScript functions for real-time area calculation.
-✅ Smooth navigation with anchor links for each shape.
-✅ Responsive design with CSS styling and a gradient background.
+1) User-friendly interface with an intuitive layout.
+2) Input validation to ensure correct calculations.
+3) JavaScript functions for real-time area calculation.
+4) Smooth navigation with anchor links for each shape.
+5) Responsive design with CSS styling and a gradient background.
 
 **Technologies Used**
 HTML5 (For structuring the content)
