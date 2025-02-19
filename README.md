@@ -28,7 +28,7 @@ The result is displayed in a readonly input box.
 Click "Go to top" to return to the main menu.
 
 **Live Demo**
-🔗 View Live Project
+View Live Project
 https://hemilp5114.github.io/assignment2JAVA/
 
 **How to Run Locally**
